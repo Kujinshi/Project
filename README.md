@@ -1,5 +1,5 @@
 # Project YYC
-# Проект по HTML, CSS, JavaScript, SQl
+# Проект по HTML, CSS, JavaScript, SQl, ReactJS, Java
 
 __ЮФУ ФизФак | Кафедра Нанотехнологий | 2020г__
 
